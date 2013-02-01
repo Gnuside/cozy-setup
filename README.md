@@ -18,7 +18,7 @@ You can do it by running following commands on your target server:
 On your local machine clone this repository and install Fabric. Fabric is a tool to run scripts on a 
 remote server:
 
-    apt-get install python python-pip git
+    apt-get install python python-pip git gcc
     git clone git://github.com/mycozycloud/cozy-setup.git
     cd cozy-setup
     sudo pip install fabric 
